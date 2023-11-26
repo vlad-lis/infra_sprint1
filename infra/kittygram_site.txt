@@ -1,0 +1,5 @@
+IP: 158.160.31.56;
+name_taski: https://vl-tasks.ddns.net/;
+name_kittygram: https://vl-kittygram.ddns.net/;
+login: vl-superuser;
+password: vl-superuser;
